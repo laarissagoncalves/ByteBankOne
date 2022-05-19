@@ -1,0 +1,12 @@
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.deps.json
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.dll
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.pdb
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.dll
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\refint\ByteBank.Modelos.dll
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.pdb
+C:\Users\ModalGR\source\repos\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ref\ByteBank.Modelos.dll
